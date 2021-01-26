@@ -40,10 +40,6 @@ Does your project do what is asked in the challenge?
 
 [Prueba CV](https://www.notion.so/Prueba-CV-3593259c45b24634b08ec2148cfd7715)
 
-Fix this
 
 ### Backend 🧱
 
--
-
--
