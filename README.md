@@ -4,7 +4,7 @@ Thanks for considering Homie as part of your career path, if you want to know a 
 
 ### How to send us the test
 
-You should send us a mail with the subject "Frontend Challenge" or "Backend Challenge", in the mail you should add your resume, how do you find us and a link of a public repository where we could find your work
+You should send an [mail](mailto:careers@homie.mx) with the subject "Frontend Challenge" or "Backend Challenge", in the mail you should add your resume, how do you find us and a link of a public repository where we could find your work
 
 ### About the stack
 
@@ -42,4 +42,6 @@ Does your project do what is asked in the challenge?
 
 
 ### Backend 🧱
+
+[Prueba Listados](https://www.notion.so/Test-Back-32f0bd50a3d64396ab14acd1b34870ad)
 
