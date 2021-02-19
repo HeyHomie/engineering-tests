@@ -42,6 +42,21 @@ Does your project do what is asked in the challenge?
 
 
 ### Backend 🧱
+As a tenant in HOMIE when you decide to publish your property with us, at the same time we publish it with some partners like metros cúbicos, inmuebles24 o segundamano to increase the possibilities of success.
 
-[Prueba Listados](https://www.notion.so/Test-Back-32f0bd50a3d64396ab14acd1b34870ad)
+¿How we work with our partners?
+
+Each partner make a request to the HOMIE API to retrieve the dataset 
+
+The main data to retrieve is Name, Description, Rental price, status (published, available, deleted), Tenant Name, tenant email, Tenant phone and Tenant availability
+
+Instructions:
+
+- Design and make an API that validate a token to retrieve the properties with the "published" status
+- Allow create, read, update, and delete each property
+
+Considerations:
+
+- Each partner may require different information on the properties listed
+- The tenant availability could be any day from Monday to Sunday, from 8 am to 8 pm
 
