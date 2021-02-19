@@ -42,7 +42,7 @@ Does your project do what is asked in the challenge?
 
 
 ### Backend 🧱
-As a tenant in HOMIE when you decide to publish your property with us, at the same time we publish it with some partners like metros cúbicos, inmuebles24 o segundamano to increase the possibilities of success.
+As owner in HOMIE when you decide to publish your property with us, at the same time we publish it with some partners like metros cúbicos, inmuebles24 o segundamano to increase the possibilities of success.
 
 ¿How we work with our partners?
 
@@ -58,5 +58,5 @@ Instructions:
 Considerations:
 
 - Each partner may require different information on the properties listed
-- The tenant availability could be any day from Monday to Sunday, from 8 am to 8 pm
+- The owner availability could be any day from Monday to Sunday, from 8 am to 8 pm
 
