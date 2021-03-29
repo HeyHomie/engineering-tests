@@ -48,7 +48,7 @@ As owner in HOMIE when you decide to publish your property with us, at the same 
 
 Each partner make a request to the HOMIE API to retrieve the dataset 
 
-The main data to retrieve is Name, Description, Rental price, status (published, available, deleted), Tenant Name, tenant email, Tenant phone and Tenant availability
+The main data to retrieve is Name, Description, Rental price, status (published, available, deleted), Owner Name, Owner email, Owner phone and Owner availability
 
 Instructions:
 
